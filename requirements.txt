@@ -1,4 +1,4 @@
-pyrofork==2.3.43
+pyrofork
 tgcrypto
 pymongo==4.8.0
 motor==3.5.1
@@ -6,7 +6,6 @@ marshmallow==3.18.0
 umongo==3.1.0
 
 aiofiles
-ffmpeg-python>=0.2.0
 requests
 aiohttp
 telegraph
