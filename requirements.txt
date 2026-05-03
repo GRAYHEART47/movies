@@ -1,5 +1,4 @@
 pyrofork==2.3.43 
-https://codeload.github.com/Jisshubot/pyrogram/zip/refs/heads/dev 
 tgcrypto 
 pymongo==4.8.0 
 motor==3.5.1 
@@ -38,6 +37,7 @@ opencv-python-headless==4.7.0.68
  speedtest==0.0.1  
  humanize==4.6.0  
  Pillow==10.4.0
+lxml==5.2.1
  psutil==5.9.4  
  NumPy  
  wheel  
