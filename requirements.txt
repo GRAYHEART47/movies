@@ -32,3 +32,5 @@ numpy
 pyromod
 colorama
 apscheduler
+
+setuptools
