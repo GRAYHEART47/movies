@@ -2,8 +2,6 @@ pyrofork
 tgcrypto
 pymongo==4.8.0
 motor==3.5.1
-marshmallow==3.18.0
-umongo==3.1.0
 
 aiofiles
 requests
@@ -13,23 +11,24 @@ ujson
 pyshorteners
 pytz
 dnspython==2.3.0
+
 fuzzywuzzy
-gunicorn==20.1.0
-werkzeug==2.0.2
-Flask
-itsdangerous==2.0.1
 python-Levenshtein
 
-opencv-python-headless==4.7.0.68
+Flask
+gunicorn==20.1.0
+werkzeug==2.0.2
+itsdangerous==2.0.1
+jinja2
+
 python-dotenv==0.21.1
-humanize==4.6.0
+python-decouple
+
 Pillow==10.4.0
 lxml==5.2.1
 psutil==5.9.4
 numpy
-python-decouple
 
-jinja2
-apscheduler
 pyromod
 colorama
+apscheduler
